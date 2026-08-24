@@ -1,5 +1,3 @@
-Python Learning
-
 My Python learning journey, practice programs, and college lab practicals.
 
 This repository contains the programs and exercises I write while learning Python and completing my Python lab work.
