@@ -1,0 +1,7 @@
+secret_msg = input("Enter a sectrt message:")
+coded_msg = input("Enter a coded message:")
+
+if secret_msg in coded_msg:
+print("Message found.")
+else:
+print("Message not found.")
